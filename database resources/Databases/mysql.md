@@ -1,4 +1,4 @@
-###Mysql basics
+### Mysql basics
 
 *[IBM NULL column constraint](https://www.ibm.com/support/knowledgecenter/en/SSGU8G_12.1.0/com.ibm.sqls.doc/ids_sqs_1949.htm)
 
