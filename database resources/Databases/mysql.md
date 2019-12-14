@@ -6,7 +6,7 @@
 
 *[numeric()](https://docs.microsoft.com/en-us/sql/t-sql/data-types/decimal-and-numeric-transact-sql?view=sql-server-ver15)
 
-*[Timestam[ vs Datetime](https://stackoverflow.com/questions/19843203/how-to-store-a-datetime-in-mysql-with-timezone-info)
+*[Timestamp vs Datetime](https://stackoverflow.com/questions/19843203/how-to-store-a-datetime-in-mysql-with-timezone-info)
 
 *[Comparison of types across sql](https://stackoverflow.com/questions/1942586/comparison-of-database-column-types-in-mysql-postgresql-and-sqlite-cross-map)
 
