@@ -1,10 +1,12 @@
-###Spring war deployment
+### Spring war deployment
 
 
-##What needs to be done to deploy spring boot app as a war
+## What needs to be done to deploy spring boot app as a war
+
 *[SpringBootServletInitializer](https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/web/servlet/support/SpringBootServletInitializer.html)
 
-##Configure tomcat for eclipse
+## Configure tomcat for eclipse
+
 *[Tomcat installation](https://www.zoftino.com/running-maven-web-application-on-tomcat-in-eclipse#install-tomcat-eclipse-plug-in)
 
 *[More Tomcat installtion details](https://www.codejava.net/servers/tomcat/how-to-deploy-a-java-web-application-on-tomcat)
