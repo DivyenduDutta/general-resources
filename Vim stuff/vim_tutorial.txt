@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=Qem8cpbJeYc
+
+multiline comment in vim
+https://stackoverflow.com/questions/1676632/whats-a-quick-way-to-comment-uncomment-lines-in-vim/15588798#15588798
+
+
+https://www.reddit.com/r/neovim/comments/3fricd/easiest_way_to_copy_from_neovim_to_system/

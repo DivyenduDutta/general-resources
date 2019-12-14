@@ -1,0 +1,22 @@
+Annette
+Warren
+Anthony
+Preston
+Kelly
+Taylor
+Stiller
+Dennis
+Schwartz
+
+can be converted to below using vim macro
+https://www.thegeekstuff.com/2009/01/vi-and-vim-macro-tutorial-how-to-record-and-play/
+
+ALTER TABLE Annette IDENTIFIED BY "Annette";
+ALTER TABLE Warren IDENTIFIED BY "Warren";
+ALTER TABLE Anthony IDENTIFIED BY "Anthony";
+ALTER TABLE Preston IDENTIFIED BY "Preston";
+ALTER TABLE Kelly IDENTIFIED BY "Kelly";
+ALTER TABLE Taylor IDENTIFIED BY "Taylor";
+ALTER TABLE Stiller IDENTIFIED BY "Stiller";
+ALTER TABLE Dennis IDENTIFIED BY "Dennis";
+ALTER TABLE Schwartz IDENTIFIED BY "Schwartz";
