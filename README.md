@@ -1,2 +1,3 @@
-# javascript-resources
-Resources to reference core javascript concepts, frameworks, best practices etc 
+# Genral Resources
+
+Resources to reference for me cause I have a small brain!! :P 
